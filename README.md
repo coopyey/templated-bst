@@ -1,5 +1,5 @@
 # templated-bst
-A program that templates a binary search tree.
+A program that templates a binary search tree. Completed the fall of 2017.
 
 # Program Information
 A previous assignment required overloading operators to fit a custom day of year class, while this assignment templates a binary search tree to work with the day of year class. Overloading operators is not required for this assignment and the day of year class only needs to be implemented to work so far as to test the binary search tree. (That being said, being able to print to the screen requires an overload.) 
